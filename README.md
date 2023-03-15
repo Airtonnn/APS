@@ -1,2 +1,0 @@
-# APS
-Atividade de universidade
